@@ -15,7 +15,7 @@ public class BankAccount {
 	public BankAccount() {
 		this.accountNumber = 123456789;
 		this.balance = 50.0;
-		this.customerName = "KunLi";
+		this.customerName = "myName";
 		this.email = "xxxx@gmail.com";
 		this.phoneNumber = "6145788789";
 	}
